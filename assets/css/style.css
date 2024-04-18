@@ -1,0 +1,72 @@
+.navbar-brand{
+    width: 86px;
+    justify-content: flex-start;
+}
+.navbar-nav{
+    margin-left: 70%;
+}
+.nav-link{
+    color:white;
+}
+.card-body{
+    height: 199px;
+}
+.titlecard{
+    font-weight: 300;
+    color: #212529;
+    text-align: left;
+    font-size: 20px;
+}
+.subtlecard{
+    font-weight: 300;
+    color:#707070;
+    text-align: left;
+    font-size: 16px;
+    line-height: 11px;
+}
+.subtlecard2{
+    font-weight: 300;
+    color: #707070;
+    text-align: left;
+    font-size: 13px;
+    line-height: 2px;
+}
+.subtlecard3{
+    font-weight: 300;
+    color: #707070;
+    font-size: 16px;
+}
+.subtlecard4{
+    font-weight: 500;
+    color: #28a745;
+    text-align: left;
+    font-size: 20px;
+}
+.linea {
+    border-top: 0.3pt solid #c0bfbf;
+    height: 1pt;
+    width:100%;
+    padding: 0;
+    margin: 16px auto 0 auto;
+    line-height: 10px;
+}
+.textcards{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    line-height: 40px;
+    gap:10px;
+}
+.formtext{
+    color: white;
+    text-align: center;
+    font-size: 21px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+}
+.footer-img{
+    width: 82px;
+    height: 24px;
+}
